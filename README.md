@@ -38,6 +38,10 @@ saturation changes associated with sleep apnea.
 
 ![image](https://github.com/somaiaahmed/Sleep-Apnea-Monitor/assets/52898207/1b84559e-904b-4fa2-aa78-163bb1a1e573)
 
+## Poster
+
+https://drive.google.com/file/d/1Atd9EeBZMnClLXdyVzxaR4bZdCgcNdfo/view?usp=share_link
+
 ### Report
 
 https://drive.google.com/file/d/1Assb4eQ0oqluPjCmP6lokhBCenJ67m8q/view?usp=share_link
